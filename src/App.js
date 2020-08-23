@@ -23,8 +23,8 @@ function App() {
                     }
                 ]}
             />
-            <div className="text-center text-danger" style={{marginTop:"120px", fontSize:"12px"}}>
-                <a href="" target="blank">GitHub: </a>
+            <div className="text-center" style={{marginTop:"120px", fontSize:"12px"}}>
+                GitHub: <a href="https://github.com/joshuaoweipadei/React-Hooks-Audio-MultiPlayer" target="blank">https://github.com/joshuaoweipadei/React-Hooks-Audio-MultiPlayer</a>
                 <div>By Joshua Oweipadei Bayefa</div>
             </div>
         </div>
