@@ -26,7 +26,7 @@ const Player = ({ player, toggle, setClickedTime }) => {
     return(
         <div className="mb-3">
             <div className="d-flex justify-content-between">
-                <div>Song: {player.title}</div>
+                <div>Title: {player.title}</div>
                 <div>Artist: {player.artist}</div>
             </div>
             <div className="bar">
