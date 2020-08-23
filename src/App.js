@@ -10,16 +10,16 @@ function App() {
                     {
                         title: 'Eli',
                         artist: 'Fireboy DML',
-                        url: './audio/Fireboy-DML-ELI.mp3',
+                        url: 'https://cdn3.justnaija.com/uploads/music/2020/08/Fireboy-DML-ELI-(JustNaija.com).mp3?dl=true',
                     },{
                         title: 'Lo Lo',
                         artist: 'Omah Lay',
-                        url: './audio/Omah_Lay_Lo_Lo.mp3',
+                        url: 'https://9jaflaver.com/wp-content/uploads/2020/07/Omah_Lay_Lo_Lo_9jaflaver.com_.mp3',
                     },
                     {
                         title: 'As E Dey Go',
                         artist: 'Naira Marley',
-                        url: './audio/Naira-Marley-As-E-Dey-Go.mp3',
+                        url: 'https://naijaloaded.store/wp-content/uploads/2020/06/Naira-Marley-As-E-Dey-Go.mp3',
                     }
                 ]}
             />
